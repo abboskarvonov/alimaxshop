@@ -1,0 +1,26 @@
+<?
+    return [
+        'Mahsulot soni' => 'Количество продуктов',
+        'Barchasi' => 'Все',
+        'Mahsulotlar' => 'Продукты',
+        'Chegirma' => 'Скидка',
+        'Yangi mahsulotlar' => 'Новые продукты',
+        'Ijtimoiy tarmoqlar' => 'Социальные сети',
+        "Savatga qo'shish" => 'Добавить в корзину',
+        'Narx' => 'Цена',
+        'Qidirilgan so`zni kiriting!' => 'Введите поисковый слова!',
+        'Maksimal narxni kiriting' => 'Введите максимальную цену!',
+        'Qidiruv' => 'Поиск',
+        'Mahsulot nomi' => 'Наименование товара',
+        'Minimal narx' => 'Минимальная цена',
+        'Maksimal narx' => 'Максимальная цена',
+        "Ro'yxatdan o'tish" => 'Регистрация',
+        'Login' => 'Логин',
+        'E-mail' => 'Электронная почта',
+        'Parol' => 'Пароль',
+        'Ism' => 'Имя',
+        'Familiya' => 'Фамилия',
+        'Telefon raqam' => 'Телефонный номер',
+        'Menu' => 'Меню',
+    ]
+?>
